@@ -1,6 +1,6 @@
-# Summary
+# Резюме
 
-- [Weclome](./Welcome.md)
+- [Добро пожаловать](./Welcome.md)
 
 - [Команды с префиксом](./Commands/Prefix/PrefixCommands.md)
 
